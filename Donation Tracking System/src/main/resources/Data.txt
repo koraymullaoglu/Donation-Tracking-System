@@ -1,0 +1,28 @@
+0;0;0;a_furkan;0;1234;adminuser;0;0;0
+0;0;0;a_emine;0;1234;adminuser;0;0;0
+0;0;0;a_koray;0;1234;adminuser;0;0;0
+Furkan;Cevik;1234567;furkan;fksf@gmail.com;1234;individualuser;0;0;0
+Kızılay;TR123456789;Yardım;kızılay;kızılay@gmail.com;12345;instutionaluser;0;0;0
+Furkan;Çevik;537287;furkan1;furkancevik@gmail.com;1234;individualuser;0;0;0
+0;0;Kızılay;Genel;Para;10000;100000;Deneme;false;donate
+Furkan;Çevik;Kızılay;Genel;Para;10000;0;FURKAN CEVİK Deneme;false;donate
+Furkan;Çevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;10000;0;FURKAN CEVİK Deneme;false;donate
+0;0;Kızılay;Su Kuyusu;Özel Su Kuyusu;110000;100000;Bagis atin pls;false;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;10000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;20000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;30000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;40000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;50000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;60000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;70000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;80000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;90000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;100000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;110000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;120000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;130000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;140000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;150000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;160000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;170000;0;Deneme;true;donate
+Furkan;Cevik;Kızılay;Su Kuyusu;Özel Su Kuyusu;180000;0;Deneme;true;donate
