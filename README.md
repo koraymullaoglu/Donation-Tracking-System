@@ -57,3 +57,6 @@ This project is licensed under the MIT License.
 ---
 
 **Project Developer**: Koray Mullaoglu / Furkan Cevik / Emine Yigit 
+
+- [coderemine](https://github.com/coderemine) 
+- [FurBlood344324](https://github.com/FurBlood344324)
